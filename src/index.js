@@ -90,7 +90,7 @@ var world_def = {
   maxFloorTiles: 200,
   mutable_floor: false,
   box2dfps: box2dfps,
-  motorSpeed: 20,
+  motorSpeed: 80,
   max_car_health: max_car_health,
   schema: generationConfig.constants.schema
 }
